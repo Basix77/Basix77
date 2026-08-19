@@ -1,19 +1,26 @@
-## Hi there 👋
+# Hi there! 👋
 
-I'm a Computer Science student and Team Leader in logistics 📦, combining hands-on operational experience with my growing skills in IT 💻.
+I'm a **Computer Science student** and **Team Leader in logistics** 📦, combining hands-on operational experience with my growing skills in IT.
 
-🛠️ Currently learning
+### 💻 Programming & Data - Fundamentals
 
-C++ • Python • SQL • Git/GitHub
+`C++` · `C` · `Python` · `Machine Learning` · `SQL`
 
-🤖 Currently working on
+### 🚀 Currently exploring
 
-AI automation and workflow development using Claude • n8n • Zapier
+`Git/GitHub` · `AI` · `Claude` · `n8n` · `Zapier` · `Workflow Automation`
 
-🎯 Interests
+### 🎯 Interests
 
-IT • AI Automation • Logistics • Data Analysis
+**IT** · **AI Automation** · **Databases** · **Logistics** 
 
-I'm particularly interested in combining technology, AI, and logistics to build practical solutions for real-world business problems.
+---
 
-📚 This profile documents my learning journey, projects, and development in IT.
+I'm particularly interested in combining **technology, AI, and logistics** to build practical solutions for real-world business problems.
+
+📚 *This profile documents my learning journey, projects, and development in IT.*
+
+
+
+
+
