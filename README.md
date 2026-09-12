@@ -8,7 +8,7 @@ I'm a **Computer Science student** and **Team Leader in logistics** 📦, combin
 
 ### 🚀 Currently exploring
 
-`Git/GitHub` · `AI` · `Claude` · `n8n` · `Zapier` · `Workflow Automation`
+`Git/GitHub` · `AI` · `Claude` · `n8n` · `Workflow Automation`
 
 ### 🎯 Interests
 
